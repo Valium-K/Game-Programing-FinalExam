@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Spike
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - Enemy
+  - Platforms
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Farthest
+    uniqueID: 1039352865
+    locked: 0
+  - name: Farther
+    uniqueID: 2077903785
+    locked: 0
+  - name: Far
+    uniqueID: 3942662407
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Close
+    uniqueID: 2068594483
+    locked: 0
+  - name: Closer
+    uniqueID: 925889701
+    locked: 0
+  - name: Closest
+    uniqueID: 657457923
+    locked: 0
